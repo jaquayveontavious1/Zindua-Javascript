@@ -1,10 +1,8 @@
-// this is a single comment
-
 let length=5;
 let width=6;
 
-let area= width*length
+let area=length*width;
 
-let perimeter= 2*(width + length)
+let perimeter=2*(length + width)
 
 document.write(area," ",perimeter)
